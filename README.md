@@ -1,7 +1,7 @@
 # Abyss
 UDP Flood made with python3 with function monitor traffic , time , and result after test for stress test network
 
-# THIS SCRIPT MADE FOR TEST / EDUCATION DO NOT ATTACK ANY SERVER WITH OWNER / IDC PERM 
+# THIS SCRIPT MADE FOR TEST / EDUCATION DO NOT ATTACK ANY SERVER WITHOUT OWNER / IDC PERM 
 
 # HOW TO USE
 python3 normal-udp.py or python3 spoof-udp.py
