@@ -3,7 +3,7 @@ import random
 import threading
 import time
 
-print("UDP DOS Custom by i13e134c14 Fork from Sharktsc-cat")
+print("UDP Flood by i13e134c14")
 print("This is normal power UDP Flood")
 ip = str(input("Host/Ip:"))
 port = int(input("Port:"))
